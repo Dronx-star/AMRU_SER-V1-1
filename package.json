@@ -1,7 +1,7 @@
 {
   "name": "AMRU_SER-V1",
   "version": "7.3.6",
-  "description": "Sana is the Modified Version of WhatsAsena, Made By @AMRUSIR with Baileys.",
+  "description": "Amru is the Modified Version of WhatsAsena, Made By @AMRUSIR with Baileys.",
   "main": "./AMRU_SER-V1/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
