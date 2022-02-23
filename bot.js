@@ -11,7 +11,7 @@ const chalk = require('chalk');
 const config = require('./config');
 const simpleGit = require('simple-git');
 const {WAConnection, MessageOptions, MessageType, Mimetype, Presence} = require('@adiwajshing/baileys');
-const {Message, StringSession, Image, Video} = require('./Sana/');
+const {Message, StringSession, Image, Video} = require('./Amru/');
 const { DataTypes } = require('sequelize');
 const { getMessage } = require("./plugins/sql/greetings");
 const git = simpleGit();
@@ -138,7 +138,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('💖Sana is Working💖 ' + config.WORKTYPE + ' new 🍃'));
+            chalk.green.bold('💖Amru ser is Working💖 ' + config.WORKTYPE + ' new 🍃'));
           if (config.LANG == 'EN' || config.LANG == 'ML') {
                 await git.fetch();
                 var commits = await git.log([config.BRANCH + '..origin/' + config.BRANCH]);
@@ -153,7 +153,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     );
                     await conn.sendMessage(
                         conn.user.jid,
-                        '*◄━⦁💝 Sana Mwol💝⦁━►*' + degisiklikler + '```', MessageType.text
+                        '*◄━⦁💝 Amru ser💝⦁━►*' + degisiklikler + '```', MessageType.text
                     ); 
                 } 
           }
@@ -336,8 +336,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ ❤ SANA MWOL️💙 ~______~*' +
-                                    '\n*SANA IS  ERROR🔰' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ ❤ AMRU SER 💙 ~______~*' +
+                                    '\n*AMRU SER IS  ERROR🔰' +
                                     '\n\n*⚠️ ' + error + '*\n'
                                     , MessageType.text);
                             }
