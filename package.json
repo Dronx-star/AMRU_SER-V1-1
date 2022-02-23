@@ -1,14 +1,14 @@
 {
-  "name": "Sana-Mwol",
+  "name": "AMRU_SER-V1",
   "version": "7.3.6",
-  "description": "Sana is the Modified Version of WhatsAsena, Made By @Ajx-Abu with Baileys.",
-  "main": "./Sana-Mwol/bot.js",
+  "description": "Sana is the Modified Version of WhatsAsena, Made By @AMRUSIR with Baileys.",
+  "main": "./AMRU_SER-V1/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ajx-Abu/Sana-Mwol.git"
+    "url": "git+https://github.com/AMRUSIR/AMRU_SER-V1.git"
   },
   "keywords": [
     "whatsapp",
@@ -17,13 +17,13 @@
     "asena",
     "WhatsAsena"
   ],
-  "author": "Ajx-Abu",
-  "developer": "@Ajx-Abu / @Ajx-Abu",
+  "author": "AMRUSIR",
+  "developer": "@AMRUSIR / @AMRUSIR",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Ajx-Abu/Sana-Mwol/issues"
+    "url": "https://github.com/AMRUSIR/AMRU_SER-V1/issues"
   },
-  "homepage": "https://github.com/Ajx-Abu/Sana-Mwol3#readme",
+  "homepage": "https://github.com/AMRUSIR/AMRU_SER-V13#readme",
   "dependencies": {
     "@adiwajshing/baileys": "3.5.3",
     "@lh2020/speedtest-net": "^2.1.1",
