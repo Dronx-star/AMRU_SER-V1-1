@@ -31,7 +31,7 @@ Sana.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message,
 *Oᴡɴᴇʀ number Abu* :https://wa.me/917025994178.
 
 
-*Wʜᴀᴛsᴀᴘᴘ Gʀᴏᴜᴘ Sᴀɴᴀ Mᴡᴏʟ* :https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk_.
+*Wʜᴀᴛsᴀᴘᴘ Gʀᴏᴜᴘ Sᴀɴᴀ Mᴡᴏʟ* :https://chat.whatsapp.com/DnHJu25Ccss7zn72nPhL8z.
 
 
 *Gɪᴛ Lɪɴᴋs* : https://github.com/AMRUSIR/AMRU_SER-V1.
@@ -42,8 +42,8 @@ Sana.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message,
 
 *sᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀɴᴅs* :https://github.com/AMRUSIR/Amru-Media/tree/main/stickers.
 
-◄━⦁💝 𝐒𝐀𝐍𝐀 𝐌𝐖𝐎𝐋💝⦁━►
-■□ ~💙 𝐀𝐁𝐔 ❤️I💙 𝐒𝐀𝐍𝐀 ❤️~■□ 
+☢️AMRU_SER-V1☢️
+■□ ~💙 AMRU ❤️I💙 ABU ❤️~■□ 
 
 `}) 
 
