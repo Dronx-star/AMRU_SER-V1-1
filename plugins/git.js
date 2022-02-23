@@ -15,7 +15,7 @@ Sana.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message,
     var r_text = new Array ();
     
     
-    r_text[0] = "https://i.imgur.com/iqfW5XR.jpg";
+    r_text[0] = "https://i.imgur.com/71Jt8W3.jpg";
     
     
     var i = Math.floor(1*Math.random())
@@ -25,22 +25,22 @@ Sana.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message,
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `◄━⦁💝 𝐒𝐀𝐍𝐀 𝐌𝐖𝐎𝐋💝⦁━►
 
 
-*Oᴡɴᴇʀ number Aʙᴜ* :https://wa.me/917025868709.
+*Oᴡɴᴇʀ number Amruthesh* :https://wa.me/917025631103.
             
 
-*Oᴡɴᴇʀ number Sᴀɴᴀ* :https://wa.me/919605385305.
+*Oᴡɴᴇʀ number Abu* :https://wa.me/917025994178.
 
 
 *Wʜᴀᴛsᴀᴘᴘ Gʀᴏᴜᴘ Sᴀɴᴀ Mᴡᴏʟ* :https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk_.
 
 
-*Gɪᴛ Lɪɴᴋs* : https://github.com/Ajx-Abu/Sana-Mwol.
+*Gɪᴛ Lɪɴᴋs* : https://github.com/AMRUSIR/AMRU_SER-V1.
 
 
-*Aᴜᴅɪᴏ ᴄᴏᴍᴍᴀɴᴅs* :https://github.com/Ajx-Abu/sana-media/tree/main/bgm.
+*Aᴜᴅɪᴏ ᴄᴏᴍᴍᴀɴᴅs* :https://github.com/AMRUSIR/Amru-Media/tree/main/bgm.
 
 
-*sᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀɴᴅs* :https://github.com/Ajx-Abu/sana-media/tree/main/stickers.
+*sᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀɴᴅs* :https://github.com/AMRUSIR/Amru-Media/tree/main/stickers.
 
 ◄━⦁💝 𝐒𝐀𝐍𝐀 𝐌𝐖𝐎𝐋💝⦁━►
 ■□ ~💙 𝐀𝐁𝐔 ❤️I💙 𝐒𝐀𝐍𝐀 ❤️~■□ 
