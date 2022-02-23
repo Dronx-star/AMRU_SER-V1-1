@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/AMRUSIR/AMRU_SER-V1/issues"
   },
-  "homepage": "https://github.com/AMRUSIR/AMRU_SER-V13#readme",
+  "homepage": "https://github.com/AMRUSIR/AMRU_SER-V1#readme",
   "dependencies": {
     "@adiwajshing/baileys": "3.5.3",
     "@lh2020/speedtest-net": "^2.1.1",
