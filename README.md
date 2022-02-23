@@ -22,11 +22,6 @@
 </p>
 </div>
 <p align="center">
-𝐏𝐑𝐎𝐉𝐄𝐂𝐓 𝐂𝐑𝐀𝐓𝐄𝐃 𝐁𝐘 𝐀𝐁𝐔 𝐀𝐍𝐃 𝐀𝐌𝐑𝐔
-    <br>
-       | © |
-        Reserved |
-    <br> 
 </p>
 
 
@@ -43,9 +38,9 @@
 <a href="https://abuser1.yolasite.com/"><img src="/language/web.png" alt="Visit Website" height="112" width="300" border="0"></a>
 
 ##
-  <h3 align="center">📢 JOIN OUR SUPPORT GROUP:</h3>
+  <h3 align="center"></h3>
 <p align="center">
-CLICK THIS LOGO TO JOIN OUR SUPPORT GROUP🎗️
+CLICK THIS LOGO TO JOIN OUR SUPPORT GROUP🔰
     <br>
 <br>
   <a href="https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk" target="blank"><img align="center" src="https://i.imgur.com/UPo3niq.png" alt="kyrie.baran" height="50" width="300" /></a>
