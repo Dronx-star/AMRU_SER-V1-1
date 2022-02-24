@@ -6,7 +6,7 @@ const Config = require('../config');
 
 if (Config.WORKTYPE == 'private') {
     
-Sana.addCommand({pattern: 'mp3', fromMe: true,dontAddCommandList: true}, (async (message, match) => {
+Sana.addCommand({pattern: 'au', fromMe: true,dontAddCommandList: true}, (async (message, match) => {
 
     var r_text = new Array ();    
 r_text[0] = "*°✪⃝മരണം വരെ കുടെ കണ്ണും എന്ന് പറഞ്ഞവർ ഇപ്പെꪆ എന്റെ മരണത്ത᭄ന് വേണ്ട᭄ കꪆത്ത᭄ര᭄ക്കുന്നു  ⃟★⃪͢＿🍃࿐⃝ ➢*";
@@ -25,7 +25,7 @@ await message.sendMessage(r_text[i]);
 
 else if (Config.WORKTYPE == 'public') {
     
-Sana.addCommand({pattern: 'mp3', fromMe: false,dontAddCommandList: true}, (async (message, match) => {
+Sana.addCommand({pattern: 'au', fromMe: false,dontAddCommandList: true}, (async (message, match) => {
 
     var r_text = new Array ();    
 r_text[0] = "*°✪⃝മരണം വരെ കുടെ കണ്ണും എന്ന് പറഞ്ഞവർ ഇപ്പെꪆ എന്റെ മരണത്ത᭄ന് വേണ്ട᭄ കꪆത്ത᭄ര᭄ക്കുന്നു  ⃟★⃪͢＿🍃࿐⃝ ➢*";
