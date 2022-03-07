@@ -1,24 +1,15 @@
-/* Copyright (C) Aᴊx-Aʙᴜ
-Mwonu credits kalayalle
-Sana-Aᴊx-Aʙᴜ
-*/
-
-const Sana = require('../events');
+const Asena = require('../events');
 const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
 const axios = require('axios');
 
 const Language = require('../language');
 const Lang = Language.getString('wallpaper');
 
-Sana.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message, match) => 
-  
+Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the bot"}, (async (message, match) => {
 
-    var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
+    var skl = await axios.get("https://i.postimg.cc/yxKfcqGQ/Anshad.jpg", { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption:
-
-
-*Gɪᴛ Lɪɴᴋs* : https://github.com/AMRUSIR/AMRU_SER-V1
+    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Github* *(setup)* : *https://github.com/AMRUSIR/AMRU_SER-V1*
 
 `}) 
 
