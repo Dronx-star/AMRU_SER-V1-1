@@ -10,15 +10,8 @@ const axios = require('axios');
 const Language = require('../language');
 const Lang = Language.getString('wallpaper');
 
-Sana.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message, match) => {
-
-    var r_text = new Array ();
-    
-    
-    r_text[0] =
-    
-    
-    var i = Math.floor(1*Math.random())
+Sana.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message, match) => 
+  
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
